@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-table/static/css/main.6999099d.css",
+    "main.js": "/react-table/static/js/main.d2470c56.js",
+    "index.html": "/react-table/index.html",
+    "main.6999099d.css.map": "/react-table/static/css/main.6999099d.css.map",
+    "main.d2470c56.js.map": "/react-table/static/js/main.d2470c56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6999099d.css",
+    "static/js/main.d2470c56.js"
+  ]
+}
