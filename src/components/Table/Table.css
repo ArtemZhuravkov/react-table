@@ -1,0 +1,62 @@
+.table-container {
+    margin: 20px 0;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+td {
+    cursor: pointer;
+}
+
+th {
+    background-color: #f4f4f4;
+}
+
+tfoot tr {
+    font-weight: bold;
+}
+
+tfoot td {
+    background-color: #eaeaea;
+}
+
+.add-button,
+.remove-button {
+    padding: 10px;
+    border-radius: 4px;
+    font-weight: 600;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+.add-button {
+    background: #1eff00;
+    margin-bottom: 16px;
+}
+
+.add-button:hover {
+    background: #45cc33;
+}
+
+.remove-button {
+    background: #fd7b7b;
+}
+
+.remove-button:hover {
+    background: #ff0000;
+}
+
+.remove-button-cell {
+    width: 100px;
+}
